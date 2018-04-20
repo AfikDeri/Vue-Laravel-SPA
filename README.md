@@ -33,6 +33,12 @@ mysql -u root
 > create database vuespa_db;
 > exit;
 
+# add the database connection config to your .env file
+DB_CONNECTION=mysql
+DB_DATABASE=vuespa_db
+DB_USERNAME=root
+DB_PASSWORD=
+
 # run the migration files to generate the schema
 php artisan migrate
 
