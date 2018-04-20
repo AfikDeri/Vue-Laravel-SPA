@@ -7,6 +7,8 @@
 
 This project is made for my youtube tutorial on "Create a SPA with Vue.JS 2, Vue-Router, Vuex and Laravel 5.6".
 
+![App Example](https://media.giphy.com/media/9JkdzNeLr0Jos5CYQk/giphy.gif)
+
 ## get it up and running.
 
 After you clone this project, do the following:
