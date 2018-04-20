@@ -13,7 +13,7 @@ After you clone this project, do the following:
 
 ```bash
 # go into the project
-cd video-chat-example
+cd Vue-Laravel-SPA
 
 # create a .env file
 cp .env.example .env
